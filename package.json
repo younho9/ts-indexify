@@ -1,6 +1,6 @@
 {
   "name": "ts-indexify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add index signature to interface",
   "keywords": [
     "typescript",
