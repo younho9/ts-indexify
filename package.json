@@ -4,7 +4,11 @@
   "description": "Add index signature to interface",
   "keywords": [
     "typescript",
-    "type",
+    "ts",
+    "types",
+    "utility",
+    "util",
+    "utilities",
     "index-signature"
   ],
   "repository": {
@@ -24,7 +28,7 @@
   ],
   "scripts": {
     "format": "prettier --write . --ignore-path ./node_modules/@younho9/prettier-config/.prettierignore",
-    "release": "np",
+    "release": "npx np",
     "test": "xo && ava && tsd"
   },
   "xo": {
@@ -53,7 +57,6 @@
     "@younho9/prettier-config": "2.2.2",
     "@younho9/tsconfig": "0.1.0",
     "ava": "3.15.0",
-    "np": "7.5.0",
     "prettier": "2.4.1",
     "tsd": "https://github.com/younho9/tsd#prepare",
     "typescript": "4.4.3",
