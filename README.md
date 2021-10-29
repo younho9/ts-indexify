@@ -1,3 +1,7 @@
+> ⚠️ This project was created to [propose to type-fest](https://github.com/sindresorhus/type-fest/issues/292).
+>
+> It is functionally identical to type-fest's Simplify, and was used to [improve use case documents](https://github.com/sindresorhus/type-fest/pull/297).
+
 # ts-indexify
 
 > Add index signature to interface
